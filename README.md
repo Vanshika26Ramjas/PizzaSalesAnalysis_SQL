@@ -92,17 +92,17 @@ The following business questions were answered using SQL queries:
 
 ## 📊 Key Insights
 
-Classic pizzas dominate both sales volume and revenue share
+- Classic pizzas dominate both sales volume and revenue share.
 
-Medium and Large sizes are the most frequently ordered
+- Medium and Large sizes are the most frequently ordered.
 
-Large & XL pizzas generate the highest revenue, indicating upselling opportunities
+- Large & XL pizzas generate the highest revenue, indicating upselling opportunities.
 
-Customers typically order 2–3 pizzas per transaction
+- Customers typically order 2–3 pizzas per transaction.
 
-Peak demand periods occur during lunch, dinner, and weekends
+- Peak demand periods occur during lunch, dinner, and weekends.
 
-Top-performing pizzas include Margherita and Veggie Delight
+- Top-performing pizzas include Margherita and Veggie Delight,
 
 
 
@@ -112,15 +112,15 @@ Top-performing pizzas include Margherita and Veggie Delight
 
 This analysis helps stakeholders to:
 
-Identify high-demand products and best-selling categories
+- Identify high-demand products and best-selling categories
 
-Optimize pricing and size-based upselling strategies
+- Optimize pricing and size-based upselling strategies
 
-Improve inventory planning based on demand patterns
+- Improve inventory planning based on demand patterns
 
-Design targeted promotions during peak hours and weekends
+- Design targeted promotions during peak hours and weekends
 
-Maximize revenue through bundle offers and strategic upselling
+- Maximize revenue through bundle offers and strategic upselling
 
 
 
