@@ -179,7 +179,9 @@ By understanding customer behavior, product demand, and revenue drivers, busines
 Hi! I’m Vanshika, a third-year B.Sc. Statistics (Hons.) student at Ramjas College, University of Delhi. 
 I am passionate about data analysis and enjoy working on real-world datasets to uncover insights using statistics, SQL, and visualization tools.
 
-📧 Email: vanshikakr2004@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/vanshika-kumar-9268aa291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-github-username)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vanshikakr2004@gmail.com)
 
 
 ---
