@@ -15,15 +15,15 @@ By writing a variety of basic to advanced SQL queries, this project demonstrates
 
 The main objectives of this project are:
 
-To analyze overall sales performance and revenue trends
+- To analyze overall sales performance and revenue trends
 
-To understand customer ordering behavior and preferences
+- To understand customer ordering behavior and preferences
 
-To identify top-performing pizzas, sizes, and categories
+- To identify top-performing pizzas, sizes, and categories
 
-To uncover peak demand periods for targeted promotions
+- To uncover peak demand periods for targeted promotions
 
-To strengthen hands-on skills in SQL for data analysis
+- To strengthen hands-on skills in SQL for data analysis
 
 
 
@@ -33,28 +33,28 @@ To strengthen hands-on skills in SQL for data analysis
 
 Dataset Coverage
 
-Total Orders: 21,350
+- Total Orders: 21,350
 
-Total Pizzas Sold: 48,620
+- Total Pizzas Sold: 48,620
 
-Average Pizzas per Order: ~2.3
+- Average Pizzas per Order: ~2.3
 
-Total Revenue: ~$818,000
+- Total Revenue: ~$818,000
 
-Average Order Value (AOV): ~$38.30
+- Average Order Value (AOV): ~$38.30
 
 
 ## Product Details
 
-Pizza Categories: Classic, Chicken, Veggie, Supreme
+- Pizza Categories: Classic, Chicken, Veggie, Supreme
 
-Total Pizza Types: 32 core recipes
+- Total Pizza Types: 32 core recipes
 
-Sizes Available: Small, Medium, Large, XL, XXL
+- Sizes Available: Small, Medium, Large, XL, XXL
 
-Unique Pizza & Size Combinations: 96
+- Unique Pizza & Size Combinations: 96
 
-Price Range: $12.75 (Small) to $35.95 (XXL)
+- Price Range: $12.75 (Small) to $35.95 (XXL)
 
 
 
@@ -64,27 +64,27 @@ Price Range: $12.75 (Small) to $35.95 (XXL)
 
 The following business questions were answered using SQL queries:
 
-Retrieved the total number of orders placed
+- Retrieved the total number of orders placed
 
-Calculated the total revenue generated from pizza sales
+- Calculated the total revenue generated from pizza sales
 
-Identified the highest-priced pizza on the menu
+- Identified the highest-priced pizza on the menu
 
-Determined the most commonly ordered pizza size
+- Determined the most commonly ordered pizza size
 
-Listed the top 5 most ordered pizza types by quantity
+- Listed the top 5 most ordered pizza types by quantity
 
-Analyzed category-wise sales distribution
+- Analyzed category-wise sales distribution
 
-Evaluated hourly order distribution to identify peak hours
+- Evaluated hourly order distribution to identify peak hours
 
-Calculated the percentage contribution of each pizza type to total revenue
+- Calculated the percentage contribution of each pizza type to total revenue
 
-Performed cumulative revenue analysis over time
+- Performed cumulative revenue analysis over time
 
-Computed the average number of pizzas ordered per day
+- Computed the average number of pizzas ordered per day
 
-Identified the top 3 pizza types based on revenue
+- Identified the top 3 pizza types based on revenue
 
 
 
